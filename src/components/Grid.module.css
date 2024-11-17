@@ -1,0 +1,44 @@
+thml, body {
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.gridSquare {
+    margin: 20px 0 0 20px;
+    border:  1px solid black;
+    border-radius: 10px;
+    width: 400px;
+    height: 300px;
+    padding: 60px  20px;
+    text-align: center;
+}
+
+/* .mainContainerInputs {
+     background-color: yellowgreen;
+} */
+
+
+
+.inputs {
+    margin-bottom: 40px;
+   
+}
+
+.buttonPrint {
+    background-color: bisque;
+    color: black;
+    border: 0.5px solid black;
+    border-radius: 3px;
+    
+}
+
+
+/* .containerInputs {
+    justify-content: center;
+    
+   
+} */
